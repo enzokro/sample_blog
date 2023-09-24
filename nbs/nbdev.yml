@@ -7,3 +7,7 @@ website:
   description: "Sample nbdev blog"
   repo-branch: main
   repo-url: "https://github.com/enzokro/sample_blog"
+  navbar:
+    left:
+      - text: "Blog"
+        href: blog/index.qmd
