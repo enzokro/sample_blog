@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "core.html",
-    "href": "core.html",
-    "title": "core",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sample_blog",
     "section": "",
-    "text": "source\n\nfoo\n\n foo ()"
+    "text": "Sample nbdev blog\n\nLanding page for our first nbdev blog."
   },
   {
     "objectID": "blog/posts/2023-09-24-first-post/index.html",
@@ -14,17 +14,17 @@
     "text": "Hello from Quarto and nbdev! My first post."
   },
   {
+    "objectID": "00_core.html",
+    "href": "00_core.html",
+    "title": "core",
+    "section": "",
+    "text": "Fill in a module description here\n\n::: {.cell 0=‘h’ 1=‘i’ 2=‘d’ 3=‘e’}\nfrom nbdev.showdoc import *\n:::\n::: {.cell 0=‘e’ 1=‘x’ 2=‘p’ 3=‘o’ 4=‘r’ 5=‘t’}\ndef foo(): pass\n:::\n::: {.cell 0=‘h’ 1=‘i’ 2=‘d’ 3=‘e’}\nimport nbdev; nbdev.nbdev_export()\n:::"
+  },
+  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Chris’ Sample Blog",
     "section": "",
     "text": "My first blog post.\n\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2023\n\n\nChris\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "sample_blog",
-    "section": "",
-    "text": "Landing page for our first nbdev blog."
   }
 ]

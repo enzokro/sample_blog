@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://enzokro.github.io/sample_blog/core.html</loc>
-    <lastmod>2023-09-24T00:46:16.069Z</lastmod>
+    <loc>https://enzokro.github.io/sample_blog/index.html</loc>
+    <lastmod>2023-09-24T01:04:58.683Z</lastmod>
   </url>
   <url>
     <loc>https://enzokro.github.io/sample_blog/blog/posts/2023-09-24-first-post/index.html</loc>
-    <lastmod>2023-09-24T00:46:15.505Z</lastmod>
+    <lastmod>2023-09-24T01:04:58.234Z</lastmod>
+  </url>
+  <url>
+    <loc>https://enzokro.github.io/sample_blog/00_core.html</loc>
+    <lastmod>2023-09-24T01:04:57.982Z</lastmod>
   </url>
   <url>
     <loc>https://enzokro.github.io/sample_blog/blog/index.html</loc>
-    <lastmod>2023-09-24T00:46:14.821Z</lastmod>
-  </url>
-  <url>
-    <loc>https://enzokro.github.io/sample_blog/index.html</loc>
-    <lastmod>2023-09-24T00:46:15.785Z</lastmod>
+    <lastmod>2023-09-24T01:04:58.491Z</lastmod>
   </url>
 </urlset>
